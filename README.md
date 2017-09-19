@@ -1,5 +1,5 @@
 # Self-made blog
-A simple self-made blog website
+A simple self-made blog website/n
 New users can register a new account, old users can login with correct pair of username and password
 people can post picture with a discription of this picture.
 In "Square" page, people can read the posts from all users
